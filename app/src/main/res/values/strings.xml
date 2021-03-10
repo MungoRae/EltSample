@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EltInterview</string>
+
+    <!-- Generic -->
+    <string name="loading">Loading…</string>
+    <string name="refresh">Refresh</string>
+
+    <!-- List Fragment -->
+    <string name="list_loading">@string/loading</string>
+    <string name="list_no_items">There are no items today!</string>
+    <string name="list_error_connection">Sorry we have been unable to download tasks. Please check your internet connection</string>
+    <string name="offline_message">You have lost connection to the internet. This app is offline.</string>
+    <string name="turn_on_wifi">Turn On Wifi</string>
+    <string name="list_error_database">Loading data from the database has failed. Please try again later.</string>
+
+</resources>
